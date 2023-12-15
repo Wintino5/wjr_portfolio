@@ -5,7 +5,7 @@
 In this project we created our first portfolio. This allowed to practice what we learned with HTML and CSS. This was a tough assignment because we also had to do outside research to complete the assignment. But it was a great learning experience and a good way to dive right into the web development world.
 ## Repository
 
-Link to deployed code: https://wintino5.github.io/horiseon_portfolio/
+Link to deployed code: https://wintino5.github.io/wjr_portfolio/
 
 ## Technologies
 
